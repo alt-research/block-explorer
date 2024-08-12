@@ -17,8 +17,8 @@
     "test:ci": "lerna run test:ci",
     "test:e2e": "lerna run test:e2e",
     "dev": "lerna run dev",
-    "build": "lerna run build",
-    "start": "lerna run start",
+    "build": "lerna run build --scope app",
+    "start": "lerna run start --scope app",
     "db:create": "lerna run db:create",
     "db:drop": "lerna run db:drop",
     "hyperchain:configure": "ts-node scripts/setup-hyperchain-config"

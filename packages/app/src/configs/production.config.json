@@ -1,38 +1,19 @@
 {
   "networks": [
     {
-      "apiUrl": "https://block-explorer-api.sepolia.zksync.dev",
-      "verificationApiUrl": "https://explorer.sepolia.era.zksync.dev",
-      "bridgeUrl": "https://portal.zksync.io/bridge/?network=sepolia",
+      "apiUrl": "https://zksync-public-testnet-explorer-api.alt.technology",
+      "verificationApiUrl": "https://zksync-public-testnet-contract-verifier.alt.technology",
+      "bridgeUrl": "https://zksync-public-testnet-bridge.alt.technology/bridge",
       "hostnames": [
-        "https://sepolia.explorer.zksync.io"
+        "zksync-public-testnet-explorer.alt.technology"
       ],
       "icon": "/images/icons/zksync-arrows.svg",
-      "l1ExplorerUrl": "https://sepolia.etherscan.io",
-      "l2ChainId": 300,
-      "l2NetworkName": "zkSync Era Sepolia Testnet",
+      "l2ChainId": 8435334,
+      "l2NetworkName": "zkSync Publict Testnet",
       "maintenance": false,
-      "name": "sepolia",
+      "name": "testnet",
       "published": true,
-      "rpcUrl": "https://sepolia.era.zksync.dev"
-    },
-    {
-      "apiUrl": "https://block-explorer-api.mainnet.zksync.io",
-      "verificationApiUrl": "https://zksync2-mainnet-explorer.zksync.io",
-      "bridgeUrl": "https://portal.zksync.io/bridge/?network=mainnet",
-      "hostnames": [
-        "https://explorer.zksync.io"
-      ],
-      "icon": "/images/icons/zksync-arrows.svg",
-      "l1ExplorerUrl": "https://etherscan.io",
-      "l2ChainId": 324,
-      "l2NetworkName": "zkSync Era Mainnet",
-      "maintenance": false,
-      "name": "mainnet",
-      "published": true,
-      "rpcUrl": "https://mainnet.era.zksync.io",
-      "tokensMinLiquidity": 0,
-      "zkTokenAddress": "0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E"
+      "rpcUrl": "https://zksync-public-testnet.alt.technology/"
     }
   ]
 }
