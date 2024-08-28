@@ -4,7 +4,7 @@
       <div class="header-container">
         <div class="logo-container">
           <router-link :to="{ name: 'home' }">
-            <span class="sr-only">zkSync</span>
+            <span class="sr-only">ZKsync</span>
             <zk-sync-era />
           </router-link>
         </div>
@@ -159,7 +159,7 @@ const { currentNetwork } = useContext();
 const navigation = reactive([
   {
     label: computed(() => t("header.nav.documentation")),
-    url: "https://docs.zksync.io/build/tooling/block-explorer/getting-started.html",
+    url: "https://docs.zksync.io/build/tooling/zksync-block-explorers",
   },
 ]);
 
