@@ -1,11 +1,11 @@
 {
   "networks": [
     {
-      "apiUrl": "https://zksync-public-testnet-explorer-api.alt.technology",
-      "verificationApiUrl": "https://zksync-public-testnet-contract-verifier.alt.technology",
-      "bridgeUrl": "https://zksync-public-testnet-bridge.alt.technology/bridge",
+      "apiUrl": "https://zkstack-public-testnet-explorer-api.alt.technology",
+      "verificationApiUrl": "https://zkstack-public-testnet-contract-verifier.alt.technology",
+      "bridgeUrl": "https://zkstack-public-testnet-bridge.alt.technology/bridge",
       "hostnames": [
-        "zksync-public-testnet-explorer.alt.technology"
+        "zkstack-public-testnet-explorer.alt.technology"
       ],
       "icon": "/images/icons/zksync-arrows.svg",
       "l2ChainId": 8435334,
@@ -13,7 +13,7 @@
       "maintenance": false,
       "name": "testnet",
       "published": true,
-      "rpcUrl": "https://zksync-public-testnet.alt.technology/"
+      "rpcUrl": "https://zkstack-public-testnet.alt.technology/"
     }
   ]
 }
