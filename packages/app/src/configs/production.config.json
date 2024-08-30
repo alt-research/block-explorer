@@ -9,7 +9,7 @@
       ],
       "icon": "/images/icons/zksync-arrows.svg",
       "l2ChainId": 8435334,
-      "l2NetworkName": "zkSync Publict Testnet",
+      "l2NetworkName": "ZK Stack Publict Testnet",
       "maintenance": false,
       "name": "testnet",
       "published": true,
