@@ -8,7 +8,7 @@
         "zkstack-public-testnet-explorer.alt.technology"
       ],
       "icon": "/images/icons/zksync-arrows.svg",
-      "l2ChainId": 8435334,
+      "l2ChainId": 1145777496,
       "l2NetworkName": "ZK Stack Public Testnet",
       "maintenance": false,
       "name": "testnet",
